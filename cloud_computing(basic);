@@ -8,9 +8,38 @@ Agenda:-
  
           why cloud computing:-
                                 before cloud computing:-
-                                                        let`s take an example , you want to host a website,these are the following things that you wouild
+                                                        let`s take an example , you want to host a website,these are the following
+                                                        things that you would
                                                         need to do:
                                                               -Buy a stack of servers.
                                                               -keeping the peak traffic in mind, buy more servers.
                                                               -Monitoring and maintenance of your servers.
                                                               
+                                                        without cloudcomputiing has some Disadvantages:
+                                                              -this setup expensive(own servers)
+                                                              -troubleshooting problems can be tedious (monitoring the servers and
+                                                                      maintaning the servers) and may conflict with your business 
+                                                                      goals.
+                                                              -Since the traffic is varying. your servers will be idle most of the 
+                                                              time.
+                                                              
+          Cloud Computing:-    how it happens now?
+                                                         set up was very expensive:- put your data on cloud servers and voila! No
+                                                             more buying expensive servers!             
+                                                         Scalability! your server capacity will vary according to traffic, how 
+                                                             cool is that!
+                                                         your cloud provider will manage your servers, hence no worries about 
+                                                            the underfying infrastructure;
+          What is cloud Computing?
+                                        it is the use of remote servers on the internet to storer ,manage and process data rather
+                                        than a local server or your personal computer;
+         
+         Cloud models:                  1)Service Models
+                                        2)Deployement Models          
+                                                  
+                                                  
+ 1)Service Models:-  3 kind of sevice module -infrastractur as a service(IaaS) 
+                                             -platform as a service (PaaS)
+                                             -software as a service(SaaS)
+                     -IaaS:-Provides     
+                                                                  
