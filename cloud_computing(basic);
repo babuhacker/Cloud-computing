@@ -41,5 +41,17 @@ Agenda:-
  1)Service Models:-  3 kind of sevice module -infrastractur as a service(IaaS) 
                                              -platform as a service (PaaS)
                                              -software as a service(SaaS)
-                     -IaaS:-Provides     
-                                                                  
+                     
+                     -IaaS:-Provides virtualized computing resource over the internet
+                           -No worries about the underfyinig physical mach8ine
+                           -Abstract the userform the physical machine
+                           -get the access of the operating system
+                           
+                     -PaaS:-don`t get access of os.
+                           -No control over underfying architecture including operating system, storage,servers etc;
+                           -The cloud Provider gives the ability to the custome to deploy customer created application 
+                              using programming languages,tools etc that are provided by the cloud Provider.
+                     -SaaS:-Don`t get a server,dont get a user interface jjust get a software
+                              -Cloud provider leases applications or software which are qwned by them to its client
+                              -example:salesforce.com provides the CRM(Customer Relation Manager) on a cloud infrastructure
+                              to its client and charges them for it,but the software is owned by the company only.
